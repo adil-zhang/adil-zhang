@@ -11,10 +11,12 @@
 - 🎉 I am a BI development engineer
 - ✨ I like learning and programming.
 
-### What  can i do 
 
-- 🔧SAP HANA ,SAP data services ,Yonghongbi
-- 📖 Linux,Python,Java,Python,JS
+
+### Label
+
+- 🔧**SAP HANA** **SAP data services** **YonghongBi**
+- 📖**Linux** **Python** **Java** **Python** **JS**
 
 ### Where To Find Me 🔍
 
