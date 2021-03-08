@@ -1,6 +1,6 @@
 ## Hi! I'm Adil 👋
 
-> Go for it now,The future is promised to no one.
+> Life does not end,activity does not end.
 
 <a href="#">
   <img align="right" alt="Adil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adil-zhang&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff&show_icons=true&count_private=true">
